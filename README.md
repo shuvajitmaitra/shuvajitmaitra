@@ -1,4 +1,4 @@
-!(https://github.com/shuvajitmaitra/shuvajitmaitra/blob/main/README.md)
+![MasterHead](https://github.com/shuvajitmaitra/shuvajitmaitra/blob/main/README.md)
 <h1 align="center">Hi 👋, I'm Shuvajit Maitra</h1>
 <h3 align="center">A passionate frontend developer from Bangladesh</h3>
 <img src="https://i.gifer.com/origin/bc/bca56ffe4a6e2910237482982aa856fe_w200.gif" alt="coding" width="400" align="right">
