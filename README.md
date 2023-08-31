@@ -27,6 +27,6 @@
 <p><img align="left"   width="50%"  src="https://github-readme-streak-stats.herokuapp.com/?user=shuvajitmaitra&" alt="shuvajitmaitra" /></p>
 <p><img align="left"  width="45%" src="https://github-readme-stats.vercel.app/api/top-langs?username=shuvajitmaitra&show_icons=true&locale=en&layout=compact" alt="shuvajitmaitra" /></p>
 <p>&nbsp;<img align="left"  width="50%"  src="https://github-readme-stats.vercel.app/api?username=shuvajitmaitra&show_icons=true&locale=en" alt="shuvajitmaitra" /></p>
-<br><br><br><br><br><br><br><br><br><br><br><br><br><br><br>
+<br><br><br><br><br><br><br><br><br><br><br>
 <h3 align="left">Support:</h3>
 <p><a href="https://www.buymeacoffee.com/buymeacoffee"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="buymeacoffee" /></a></p><br><br>
