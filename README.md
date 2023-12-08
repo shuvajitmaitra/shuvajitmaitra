@@ -10,7 +10,7 @@
 
 - 🌱 I’m currently learning **Web Development in Programming Hero**
 
-- 📫 How to reach me **shuvajitmaitra0@gmail.com**
+- 📫 How to reach me **shuvajitmaitra@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
