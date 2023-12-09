@@ -48,7 +48,7 @@
 </p>
 <p>
 <img align="left"  width="50%"  src="https://github-readme-stats.vercel.app/api?username=shuvajitmaitra&show_icons=true&locale=en&theme=tokyonight" alt="shuvajitmaitra" />
-</p>
+</p>      
 <br/>
 <br/>
 <br/>
