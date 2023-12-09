@@ -58,8 +58,7 @@ __Hello there! 👋 I'm Shuvajit Maitra, a passionate Junior MERN Developer with
 <p>
 
 #
-### Project Name: TrendLoom 
-#### Type: Inventory Management Website  
+## Project Name: TrendLoom | Inventory Management Website 
 Admin Email: admin@gmail.com   
 Admin Pass : Admin@1   
 [Live Link](https://tree-treasures.web.app) |  [Client Side Link](https://github.com/shuvajitmaitra/Inventory-Management-client) |
@@ -89,8 +88,7 @@ Admin Pass : Admin@1
 
 #
 
-### Project Name: Novel Nexus | Library Management Website 
- #### Site Type: Library Management Website    
+## Project Name: Novel Nexus | Library Management Website 
  Librarian Email : librarian@gmail.com   
  Librarian pass  : Librarian#1      
  [Live Site](https://novel-nexus-io.web.app) |
@@ -118,8 +116,7 @@ Admin Pass : Admin@1
 
 #
 
-### Project Name: Novel Nexus | Library Management Website 
-  #### Site Type: Movie related Website        
+## Project Name:  Media Hunter | Movie related Website 
  [Live Site](https://media-hunter-io.web.app) | 
  [Client-Side Repository Link](https://github.com/shuvajitmaitra/Media-Hunter-Client) |
  [Server-Side Repository Link](https://github.com/shuvajitmaitra/Media-Hunter-Server)    
