@@ -2,7 +2,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=shuvajitmaitra&label=Profile%20views&color=0e75b6&style=flat" alt="shuvajitmaitra" /> </p>
 
-- 🌱 I’m currently learning **Web Development in Programming Hero**
+- 🌱 I’m currently learning **MERN Development**
 
 - 📫 How to reach me **shuvajitmaitra@gmail.com**
 
@@ -31,8 +31,12 @@
 
 <!-- stats............. -->
 <p  align="center">
-<img   width="70%"  src="https://github-readme-streak-stats.herokuapp.com/?user=shuvajitmaitra&theme=react&hide_border=true" alt="shuvajitmaitra" />
+<img   width="70%"  src="https://github-readme-streak-stats.herokuapp.com/?user=shuvajitmaitra&hide_border=true" alt="shuvajitmaitra" />
 </p>
-<p><img align="left"  width="45%" src="https://github-readme-stats.vercel.app/api/top-langs?username=shuvajitmaitra&show_icons=true&locale=en&layout=compact" alt="shuvajitmaitra" /></p>
-<p>&nbsp;<img align="left"  width="50%"  src="https://github-readme-stats.vercel.app/api?username=shuvajitmaitra&show_icons=true&locale=en" alt="shuvajitmaitra" /></p>
+<p>
+<img align="left"  width="45%" src="https://github-readme-stats.vercel.app/api/top-langs?username=shuvajitmaitra&show_icons=true&locale=en&layout=compact" alt="shuvajitmaitra" />
+</p>
+<p>
+<img align="left"  width="50%"  src="https://github-readme-stats.vercel.app/api?username=shuvajitmaitra&show_icons=true&locale=en" alt="shuvajitmaitra" />
+</p>
 
