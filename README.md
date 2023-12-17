@@ -37,13 +37,17 @@
 
 
 <!-- stats............. -->
-https://streak-stats.demolab.com?user=shuvajitmaitra&theme=tokyonight&mode=weekly&type=json
+
 ## 📈 Current stats
-[![GitHub Streak](https://streak-stats.demolab.com?user=shuvajitmaitra&theme=tokyonight&mode=weekly&type=png)](https://git.io/streak-stats)
+<a href="https://github.com/shuvajitmaitra"><img src="https://stats.dooboo.io/api/github-stats-advanced?login=shuvajitmaitra" width="520" /></a>
+<a href="https://github.com/shuvajitmaitra"><img src="https://streak-stats.demolab.com?user=shuvajitmaitra&theme=tokyonight&mode=weekly&type=png" width="520" /></a>
+
 
 <p align="left"  width="45%">
 <img  src="https://github-readme-stats.vercel.app/api/top-langs?username=shuvajitmaitra&show_icons=true&locale=en&theme=tokyonight" alt="shuvajitmaitra" />
 </p>
+
+![shuvajitmaitra github-trophies](https://stats.dooboo.io/api/github-trophies?login=shuvajitmaitra)
 <p  align="right"  width="48%">
 <img  src="https://github-readme-stats.vercel.app/api?username=shuvajitmaitra&show_icons=true&locale=en&theme=tokyonight" alt="shuvajitmaitra" />
 </p>      
