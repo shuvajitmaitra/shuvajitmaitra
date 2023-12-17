@@ -34,10 +34,12 @@
   </a>
 </p>
 
-<!-- stats............. -->
 
+
+<!-- stats............. -->
+https://streak-stats.demolab.com?user=shuvajitmaitra&theme=tokyonight&mode=weekly&type=json
 ## 📈 Current stats
-<a width="100%" href="https://git.io/streak-stats"><img align="center" src="https://streak-stats.demolab.com?user=shuvajitmaitra&theme=tokyonight&mode=weekly" alt="GitHub Streak" /></a>
+[![GitHub Streak](https://streak-stats.demolab.com?user=shuvajitmaitra&theme=tokyonight&mode=weekly&type=png)](https://git.io/streak-stats)
 
 <p align="left"  width="45%">
 <img  src="https://github-readme-stats.vercel.app/api/top-langs?username=shuvajitmaitra&show_icons=true&locale=en&theme=tokyonight" alt="shuvajitmaitra" />
