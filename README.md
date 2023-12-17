@@ -45,7 +45,7 @@
 
 </p>
 <p align="center"  width="45%">
-<img  src="https://github-readme-stats.vercel.app/api/top-langs?username=shuvajitmaitra&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="shuvajitmaitra" />
+<img  src="https://github-readme-stats.vercel.app/api/top-langs?username=shuvajitmaitra&show_icons=true&locale=en&theme=tokyonight" alt="shuvajitmaitra" />
 </p>
 <p  align="right"  width="50%">
 <img  src="https://github-readme-stats.vercel.app/api?username=shuvajitmaitra&show_icons=true&locale=en&theme=tokyonight" alt="shuvajitmaitra" />
