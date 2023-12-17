@@ -39,7 +39,7 @@
 <!-- stats............. -->
 
 ## 📈 Current stats
-<a href="https://github.com/shuvajitmaitra"><img src="https://stats.dooboo.io/api/github-stats-advanced?login=shuvajitmaitra&" width="45%" /></a>
+<a href="https://github.com/shuvajitmaitra"><img src="https://stats.dooboo.io/api/github-stats-advanced?login=shuvajitmaitra" width="45%" /></a>
 <a href="https://github.com/shuvajitmaitra"><img src="https://streak-stats.demolab.com?user=shuvajitmaitra&theme=tokyonight&mode=weekly&type=png" width="50%" /></a>
 
 
@@ -47,7 +47,7 @@
 <img  src="https://github-readme-stats.vercel.app/api/top-langs?username=shuvajitmaitra&show_icons=true&locale=en&theme=tokyonight" alt="shuvajitmaitra" />
 </p>
 
-<p  align="right"  width="48%">
+<p  align="right"  width="45%">
 <img  src="https://github-readme-stats.vercel.app/api?username=shuvajitmaitra&show_icons=true&locale=en&theme=tokyonight" alt="shuvajitmaitra" />
 </p>      
 <p>
