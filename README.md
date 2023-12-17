@@ -44,7 +44,7 @@
 
 
 <span>
-<img  src="https://github-readme-stats.vercel.app/api/top-langs?username=shuvajitmaitra&show_icons=true&locale=en&theme=tokyonight" alt="shuvajitmaitra" align="left"  width="45%" />
+<img  src="https://github-readme-stats.vercel.app/api/top-langs?username=shuvajitmaitra&show_icons=true&locale=en&theme=tokyonight&type=compact" alt="shuvajitmaitra" align="left"  width="45%" />
 </span>
 
 <span>
