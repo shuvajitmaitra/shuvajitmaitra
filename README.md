@@ -40,10 +40,6 @@
 
 
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=shuvajitmaitra&theme=tokyonight)
-<p  align="left" width="70%">
-
-
-</p>
 <p align="left"  width="45%">
 <img  src="https://github-readme-stats.vercel.app/api/top-langs?username=shuvajitmaitra&show_icons=true&locale=en&theme=tokyonight" alt="shuvajitmaitra" />
 </p>
