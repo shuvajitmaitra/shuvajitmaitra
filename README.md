@@ -39,15 +39,10 @@
 <!-- stats............. -->
 
 ## 📈 Current stats
-<div>
-<img src="https://stats.dooboo.io/api/github-trophies?login=shuvajitmaitra" width="50%" />
-<img src="https://streak-stats.demolab.com?user=shuvajitmaitra&theme=tokyonight&mode=weekly&type=png" width="50%" />
-</div>
+<div align="center"><img src="https://stats.dooboo.io/api/github-trophies?login=shuvajitmaitra" width="50%" /></div>
+<div align="center"><img src="https://streak-stats.demolab.com?user=shuvajitmaitra&theme=tokyonight&mode=weekly&type=png" width="50%" /></div>
 
 <a href="https://github.com/shuvajitmaitra"><img src="https://github-readme-stats.vercel.app/api/top-langs?username=shuvajitmaitra&show_icons=true&locale=en&theme=tokyonight&layout=compact" width="45%" /></a>
 <a href="https://github.com/shuvajitmaitra"><img src="https://github-readme-stats.vercel.app/api?username=shuvajitmaitra&show_icons=true&locale=en&theme=tokyonight" width="50%" /></a>
 
 ![github-stats](https://stats.dooboo.io/api/github-stats-advanced?login=shuvajitmaitra)
-<div align="center">
-
-</div>
