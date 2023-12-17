@@ -40,6 +40,6 @@
 
 ## 📈 Current stats
 ![shuvajitmaitra github-trophies](https://stats.dooboo.io/api/github-trophies?login=shuvajitmaitra)
-<a href="https://github.com/shuvajitmaitra"><img src="https://streak-stats.demolab.com?user=shuvajitmaitra&theme=tokyonight&mode=weekly&type=png" width="50%" /></a>
+<a href="https://github.com/shuvajitmaitra"><img src="https://streak-stats.demolab.com?user=shuvajitmaitra&theme=tokyonight&mode=weekly&type=png" width="50% align="center" /></a>
     
 
