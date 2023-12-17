@@ -44,7 +44,7 @@ https://streak-stats.demolab.com?user=shuvajitmaitra&theme=tokyonight&mode=weekl
 <p align="left"  width="45%">
 <img  src="https://github-readme-stats.vercel.app/api/top-langs?username=shuvajitmaitra&show_icons=true&locale=en&theme=tokyonight" alt="shuvajitmaitra" />
 </p>
-<p  align="right"  width="50%">
+<p  align="right"  width="48%">
 <img  src="https://github-readme-stats.vercel.app/api?username=shuvajitmaitra&show_icons=true&locale=en&theme=tokyonight" alt="shuvajitmaitra" />
 </p>      
 <p>
