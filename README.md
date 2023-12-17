@@ -48,7 +48,7 @@
 </span>
 
 <span>
-<img  src="https://github-readme-stats.vercel.app/api?username=shuvajitmaitra&show_icons=true&locale=en&theme=tokyonight" alt="shuvajitmaitra"   align="right"  width="30%"/>
+<img  src="https://github-readme-stats.vercel.app/api?username=shuvajitmaitra&show_icons=true&locale=en&theme=tokyonight" alt="shuvajitmaitra"   align="right"  width="50%"/>
 </span>     
 
 ![shuvajitmaitra github-trophies](https://stats.dooboo.io/api/github-trophies?login=shuvajitmaitra)
