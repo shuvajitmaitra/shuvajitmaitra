@@ -47,7 +47,7 @@
 <img  src="https://github-readme-stats.vercel.app/api/top-langs?username=shuvajitmaitra&show_icons=true&locale=en&theme=tokyonight" alt="shuvajitmaitra" />
 </p>
 
-<p  align="right"  width="45%">
+<p  align="right"  width="30%">
 <img  src="https://github-readme-stats.vercel.app/api?username=shuvajitmaitra&show_icons=true&locale=en&theme=tokyonight" alt="shuvajitmaitra" />
 </p>      
 <p>
