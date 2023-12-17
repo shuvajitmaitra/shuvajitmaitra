@@ -38,6 +38,7 @@
 
 ## 📈 Current stats
 
+<a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=shuvajitmaitra&theme=tokyonight&date_format=j%20M%5B%20Y%5D&mode=weekly&card_width=341&type=png&fire=EB5454" alt="GitHub Streak" /></a>
 
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=shuvajitmaitra&theme=tokyonight)
 <p align="left"  width="45%">
