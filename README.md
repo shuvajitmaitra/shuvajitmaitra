@@ -39,7 +39,16 @@
 <!-- stats............. -->
 
 ## 📈 Current stats
-![shuvajitmaitra github-trophies](https://stats.dooboo.io/api/github-trophies?login=shuvajitmaitra)
-<a href="https://github.com/shuvajitmaitra"><img src="https://streak-stats.demolab.com?user=shuvajitmaitra&theme=tokyonight&mode=weekly&type=png" width="50%" align="center" /></a>
-    
 
+<a href="https://github.com/shuvajitmaitra"><img src="https://streak-stats.demolab.com?user=shuvajitmaitra&theme=tokyonight&mode=weekly&type=png" width="50%" /></a>
+
+
+<p>
+<img  src="https://stats.dooboo.io/api/github-trophies?login=shuvajitmaitra" alt="shuvajitmaitra" align="left"  width="45%" />
+</p>
+
+<span>
+<img  src="https://github-readme-stats.vercel.app/api?username=shuvajitmaitra&show_icons=true&locale=en&theme=tokyonight" alt="shuvajitmaitra"   align="right"  width="50%"/>
+</span>     
+
+![shuvajitmaitra github-trophies]()
