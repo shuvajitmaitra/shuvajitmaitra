@@ -39,7 +39,7 @@
 <!-- stats............. -->
 
 ## 📈 Current stats
-<a href="https://github.com/shuvajitmaitra"><img src="https://stats.dooboo.io/api/github-stats-advanced?login=shuvajitmaitra" width="520" /></a>
+<a href="https://github.com/shuvajitmaitra"><img src="https://stats.dooboo.io/api/github-stats-advanced?login=shuvajitmaitra&type=png" width="520" /></a>
 <a href="https://github.com/shuvajitmaitra"><img src="https://streak-stats.demolab.com?user=shuvajitmaitra&theme=tokyonight&mode=weekly&type=png" width="520" /></a>
 
 
