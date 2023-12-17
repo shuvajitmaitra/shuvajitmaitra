@@ -37,10 +37,8 @@
 <!-- stats............. -->
 
 ## 📈 Current stats
+<a width="100%" href="https://git.io/streak-stats"><img align="center" src="https://streak-stats.demolab.com?user=shuvajitmaitra&theme=tokyonight&mode=weekly" alt="GitHub Streak" /></a>
 
-<a align='center' href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=shuvajitmaitra&theme=tokyonight&date_format=j%20M%5B%20Y%5D&mode=weekly&type=png&fire=EB5454" alt="GitHub Streak" /></a>
-
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=shuvajitmaitra&theme=tokyonight)
 <p align="left"  width="45%">
 <img  src="https://github-readme-stats.vercel.app/api/top-langs?username=shuvajitmaitra&show_icons=true&locale=en&theme=tokyonight" alt="shuvajitmaitra" />
 </p>
