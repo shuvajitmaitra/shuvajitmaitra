@@ -39,15 +39,15 @@
 ## 📈 Current stats
 
 
-<p  align="center" width="70%">
-
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=shuvajitmaitra&theme=tokyonight)
+<p  align="left" width="70%">
+
 
 </p>
-<p>
-<img align="left"  width="45%" src="https://github-readme-stats.vercel.app/api/top-langs?username=shuvajitmaitra&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="shuvajitmaitra" />
+<p align="center"  width="45%">
+<img  src="https://github-readme-stats.vercel.app/api/top-langs?username=shuvajitmaitra&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="shuvajitmaitra" />
 </p>
-<p>
-<img align="left"  width="50%"  src="https://github-readme-stats.vercel.app/api?username=shuvajitmaitra&show_icons=true&locale=en&theme=tokyonight" alt="shuvajitmaitra" />
+<p  align="right"  width="50%">
+<img  src="https://github-readme-stats.vercel.app/api?username=shuvajitmaitra&show_icons=true&locale=en&theme=tokyonight" alt="shuvajitmaitra" />
 </p>      
 <p>
