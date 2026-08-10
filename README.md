@@ -106,25 +106,11 @@
   <img width="88%" src="https://github-trophies.vercel.app/?username=shuvajitmaitra&theme=tokyonight&no-frame=true&no-bg=true&column=7&margin-w=8&margin-h=8" alt="Trophies" />
 </div>
 
-<details>
-  <summary><b>📊 More stats — activity graph, commit stats, productive hours</b></summary>
-  <br />
-  <div align="center">
-    <img width="95%" src="https://github-readme-activity-graph.vercel.app/graph?username=shuvajitmaitra&bg_color=0D1117&color=38BDF8&line=38BDF8&point=FFFFFF&area=true&hide_border=true" alt="Activity Graph" />
-    <br /><br />
-    <img width="43%" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=shuvajitmaitra&theme=tokyonight" alt="Commit Stats" />
-    <img width="43%" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=shuvajitmaitra&theme=tokyonight&utcOffset=6" alt="Productive Time" />
-  </div>
-</details>
-
 ---
 
 <!-- ==================== FOOTER ==================== -->
 
 <div align="center">
-  <i>“Any fool can write code that a computer can understand. Good programmers write code that humans can understand.”</i><br />
-  <sub>— Martin Fowler</sub>
-  <br /><br />
   <b>Got an app idea? Let's build it. 📬 <a href="mailto:shuvajitmaitra@gmail.com">shuvajitmaitra@gmail.com</a></b>
   <br /><br />
   <img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" />
