@@ -100,5 +100,5 @@ React Native Developer with **2.4+ years** of experience building, optimizing, a
 </div>
 
 <div align="center">
-  <img width="98%" src="https://github-readme-activity-graph.vercel.app/graph?username=shuvajitmaitra&bg_color=0F172A&color=22D3EE&line=22D3EE&point=34D399&title_color=22D3EE&area=true&hide_border=true" alt="Activity graph" />
+  <img width="98%" src="https://ghchart.rshah.org/22D3EE/shuvajitmaitra" alt="Contribution graph" />
 </div>
