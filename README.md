@@ -90,6 +90,10 @@ React Native Developer with **2.4+ years** of experience building, optimizing, a
 ## 📊 GitHub Stats
 
 <div align="center">
+  <img width="98%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=shuvajitmaitra&theme=github_dark" alt="Profile summary" />
+</div>
+
+<div align="center">
   <img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=shuvajitmaitra&theme=github_dark" alt="Top languages by repo" />
   <img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=shuvajitmaitra&theme=github_dark" alt="Top languages by commit" />
 </div>
@@ -100,5 +104,19 @@ React Native Developer with **2.4+ years** of experience building, optimizing, a
 </div>
 
 <div align="center">
+  <img width="98%" src="https://streak-stats.demolab.com?user=shuvajitmaitra&hide_border=true&background=0F172A&stroke=1E293B&ring=22D3EE&fire=34D399&currStreakNum=E2E8F0&sideNums=E2E8F0&currStreakLabel=22D3EE&sideLabels=94A3B8&dates=64748B&excludeDaysLabel=64748B" alt="Contribution streak" />
+</div>
+
+<h3 align="center">🌱 Contribution Graph</h3>
+
+<div align="center">
   <img width="98%" src="https://ghchart.rshah.org/22D3EE/shuvajitmaitra" alt="Contribution graph" />
 </div>
+
+---
+
+<p align="center">
+  <i>Thanks for stopping by — let's build something great together.</i>
+</p>
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0F172A,100:22D3EE&height=120&section=footer" alt="" />
