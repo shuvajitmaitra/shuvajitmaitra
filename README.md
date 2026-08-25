@@ -26,7 +26,7 @@
 
 ## 👨‍💻 About Me
 
-React Native Developer with **2.4+ years** of experience building, optimizing, and publishing scalable iOS and Android apps — across eCommerce, e-learning, school management, and AI-focused products.
+React Native Developer with **2.5+ years** of experience building, optimizing, and publishing scalable iOS and Android apps — across eCommerce, e-learning, school management, and AI-focused products.
 
 - 📱 Build cross-platform apps with **React Native (CLI & Expo)**, **TypeScript**, and **JavaScript**
 - 🧩 Manage state with **Redux Toolkit**, **RTK Query**, **Context API**, **AsyncStorage**, and **MMKV**
